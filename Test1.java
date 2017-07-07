@@ -4,5 +4,6 @@ public class Test1{
     Scanner reader = new Scanner();
     String input1 = reader.getString();
     System.out.println("Testing master");
+    System.out.println("Changing again");
   }
 }
