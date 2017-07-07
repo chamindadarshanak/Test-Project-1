@@ -5,5 +5,7 @@ public class Test1{
     String input1 = reader.getString();
     System.out.println("Testing master");
     System.out.println("Changing again");
+
+
   }
 }
