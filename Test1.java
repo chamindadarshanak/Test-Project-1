@@ -3,7 +3,7 @@ public class Test1{
     System.out.println("Hello World!");
     Scanner reader = new Scanner();
     String input1 = reader.getString();
-    System.out.println("Testing master");
+
 
   }
 }
